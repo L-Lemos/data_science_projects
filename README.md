@@ -6,7 +6,7 @@ This project takes openly available data from **[Airbnb](http://insideairbnb.com
 
 It is an example of basic data retrieval, cleaning and visualization, which can be useful either if you are a data science beginner or a tourist looking to spend some holiday time visiting the Colosseum. 
 
-This project is part of the 
+This project is part of the **[DSNP Data Science course from Sigmoidal](https://www.linkedin.com/company/sigmoidal-ai/)**.
 
 **[Link to the project notebook](https://github.com/L-Lemos/rome_airbnb_prices/blob/main/Airbnb_Rome.ipynb)**
 
