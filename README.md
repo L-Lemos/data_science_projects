@@ -8,7 +8,9 @@ It is an example of basic data retrieval, cleaning and visualization, which can 
 
 This project is part of the [DSNP Data Science course from Sigmoidal](https://www.linkedin.com/company/sigmoidal-ai/).
 
-**[Link to the project notebook](https://github.com/L-Lemos/rome_airbnb_prices/blob/main/Airbnb_Rome.ipynb)**
+### Project related links
+
+**[Project notebook](https://github.com/L-Lemos/rome_airbnb_prices/blob/main/Airbnb_Rome.ipynb)**
 
 ### Other useful links:
 
