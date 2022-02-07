@@ -4,7 +4,7 @@ This project takes openly available data from **[Airbnb](http://insideairbnb.com
 
 **[Link to the project notebook](https://github.com/L-Lemos/rome_airbnb_prices/blob/main/Airbnb_Rome.ipynb)**
 
-## Other useful links:
+### Other useful links:
 
 **[Linkedin](https://www.linkedin.com/in/leonardo-lacerda-lemos/)**
 
