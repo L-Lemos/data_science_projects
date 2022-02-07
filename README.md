@@ -7,4 +7,5 @@ This project takes openly available data from **[Airbnb](http://insideairbnb.com
 ## Other useful links:
 
 **[Linkedin](https://www.linkedin.com/in/leonardo-lacerda-lemos/)**
+
 **[My Data Science Portfolio](https://github.com/L-Lemos/portfolio-leo-lemos)**
