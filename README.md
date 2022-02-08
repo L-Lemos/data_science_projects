@@ -10,7 +10,7 @@ This project was made as part of the [DSNP Data Science course, from Sigmoidal](
 
 ### Project related links
 
-**[Project notebook](https://github.com/L-Lemos/rome_airbnb_prices/blob/main/Airbnb_Rome.ipynb)**
+**[Project notebook](https://colab.research.google.com/github/L-Lemos/rome_airbnb_prices/blob/main/Airbnb_Rome.ipynb)**
 
 **[Project post on Medium](https://medium.com/@leonardo.f.l.lemos)**
 
