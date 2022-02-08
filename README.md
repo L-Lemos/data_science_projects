@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-leo.lemos-red.svg)](https://www.linkedin.com/in/leonardo-lacerda-lemos/) [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-399/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/L-Lemos/rome_airbnb_prices/issues)
 
-<img alt="Banner" width="100%" src="Banner Airbnb Rome.png">
+<img alt="Banner" width="100%" src="https://raw.githubusercontent.com/L-Lemos/pictures/0e3bc995256e89e025b505fbb3d27e6879c2bfe5/Banner%20Airbnb%20Rome.png">
 
 This project takes openly available data from [Airbnb](http://insideairbnb.com/get-the-data.html) to present a quick overview of how accommodation prices in Rome vary across the city, from street to street, from district to district. 
 
